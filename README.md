@@ -1,3 +1,8 @@
+This project belongs to the manuscript entitled "XXX" by D Juljugin (1), K Stahlmann (1), A Zapf (1). 1 Institute of Medical Biometry and Epidemiology, University Medical Center Hamburg Eppendorf, Hamburg, Germany
+It contains the code to replicate the simulation study and its results. The simulated data are provided as well. 
+Author of the code: Dennis Juljugin
+Corresponding author: Katharina Stahlmann (k.stahlmann@uke.de)
+
 How to replicate the simulation study
  
 Folder: "Simulation Code"
@@ -20,3 +25,5 @@ Folder: "Analysis Code"
 Folder: "Plots"
 
 This folder includes all the original PDF files of all the plots in this study.
+
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3 License - see the LICENSE.md file for details
